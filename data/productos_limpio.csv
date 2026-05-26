@@ -1,0 +1,39 @@
+ID_Producto,Nombre_producto,ID_Categoria,Precio_Unitario,Stock
+1,Leche,1,12.24,3327
+2,Yogur,1,5.21,3358
+3,Queso cremoso,1,17.23,3167
+4,Queso rallado,1,19.23,2099
+5,Manteca,1,5.65,4929
+6,Asado,2,28.56,5137
+7,Chorizo,2,11.25,4068
+8,Milanesa,2,16.21,3140
+9,Pollo,2,18.56,4051
+10,Costilla de cerdo,2,14.25,2429
+11,Salchicha,2,11.23,1726
+12,Pan francés,3,8.12,1619
+13,Pan integral,3,12.56,2228
+14,Facturas,3,12.36,3125
+15,Medialunas,3,3.51,4043
+16,Tortas,3,15.23,3189
+17,Manzanas,4,6.54,3383
+18,Bananas,4,7.25,4720
+19,Tomates,4,6.54,4041
+20,Lechugas,4,4.25,1541
+21,Zanahorias,4,3.25,2800
+22,Cebolla,4,4.21,3545
+23,Papas fritas,5,8.23,3731
+24,Empanadas,5,13.54,2908
+25,Pizza congelada,5,15.45,1640
+26,Hamburgesas congeladas,5,9.54,1688
+27,Agua mineral,6,6.21,4978
+28,Jugos de frutas,6,9.45,3637
+29,Cerveza,6,11.54,2455
+30,Vino tinto,6,13.54,1363
+31,Galletitas de agua,7,5.24,2771
+32,Galletitas de chocolate,7,6.25,5057
+33,Papas chips,7,8.54,2837
+34,Maníes,7,5.45,4769
+35,Arroz,8,4.25,1437
+36,Lentejas,8,3.25,4578
+37,Garbanzos,8,3.65,1506
+38,Atún enlatado,8,6.21,2182
